@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+gradio
+pandas
+plotly
+deep-translator
